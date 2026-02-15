@@ -24,7 +24,7 @@ game_data = {
 
         {
             "name": "Spider-Man",
-            "image": "images/spiderman.png",
+            "image": "spiderman.jpg",
             "clues": [
                 "I gained powers after being bitten.",
                 "I can stick to walls.",
@@ -36,7 +36,7 @@ game_data = {
 
         {
             "name": "Batman",
-            "image": "images/batman.png",
+            "image": "batman.jpg",
             "clues": [
                 "I fight crime at night.",
                 "I don't have superpowers.",
@@ -48,7 +48,7 @@ game_data = {
 
         {
             "name": "Elsa",
-            "image": "images/elsa.png",
+            "image": "elsa.jpg",
             "clues": [
                 "I have ice powers.",
                 "I built an ice palace.",
@@ -60,7 +60,7 @@ game_data = {
 
         {
             "name": "Pikachu",
-            "image": "images/pikachu.png",
+            "image": "pikachu.jpg",
             "clues": [
                 "I am small and yellow.",
                 "I produce electricity.",
@@ -72,7 +72,7 @@ game_data = {
 
         {
             "name": "Superman",
-            "image": "images/superman.png",
+            "image": "superman.jpg",
             "clues": [
                 "I wear a red cape.",
                 "I can fly.",
@@ -84,7 +84,7 @@ game_data = {
 
         {
             "name": "Simba",
-            "image": "images/simba.png",
+            "image": "simba.jpg",
             "clues": [
                 "I am a lion.",
                 "My father was a king.",
@@ -96,7 +96,7 @@ game_data = {
 
         {
             "name": "SpongeBob SquarePants",
-            "image": "images/spongebob.png",
+            "image": "spongebob.jpg",
             "clues": [
                 "I live in a pineapple.",
                 "I work at the Krusty Krab.",
@@ -108,7 +108,7 @@ game_data = {
 
         {
             "name": "Wonder Woman",
-            "image": "images/wonder_woman.png",
+            "image": "wonder_woman.jpg",
             "clues": [
                 "I am an Amazon warrior.",
                 "I use a lasso.",
@@ -120,7 +120,7 @@ game_data = {
 
         {
             "name": "Mickey Mouse",
-            "image": "images/mickey.png",
+            "image": "mickey.jpg",
             "clues": [
                 "I wear red shorts.",
                 "I have big round ears.",
@@ -135,7 +135,7 @@ game_data = {
 
         {
             "name": "Katniss Everdeen",
-            "image": "images/katniss.png",
+            "image": "katniss.jpg",
             "clues": [
                 "I volunteer as tribute.",
                 "I am skilled with a bow.",
@@ -147,7 +147,7 @@ game_data = {
 
         {
             "name": "Tony Stark",
-            "image": "images/tony_stark.png",
+            "image": "tony_stark.jpg",
             "clues": [
                 "I am a billionaire genius.",
                 "I build advanced technology.",
@@ -159,7 +159,7 @@ game_data = {
 
         {
             "name": "Loki",
-            "image": "images/loki.png",
+            "image": "loki.jpg",
             "clues": [
                 "I love chaos.",
                 "I can shape-shift.",
@@ -171,7 +171,7 @@ game_data = {
 
         {
             "name": "The Flash",
-            "image": "images/flash.png",
+            "image": "flash.jpg",
             "clues": [
                 "I move extremely fast.",
                 "I was struck by lightning.",
@@ -183,7 +183,7 @@ game_data = {
 
         {
             "name": "Neo",
-            "image": "images/neo.png",
+            "image": "neo.jpg",
             "clues": [
                 "My world is a simulation.",
                 "I can dodge bullets.",
@@ -195,7 +195,7 @@ game_data = {
 
         {
             "name": "Deadpool",
-            "image": "images/deadpool.png",
+            "image": "deadpool.jpg",
             "clues": [
                 "I break the fourth wall.",
                 "I heal very fast.",
@@ -207,7 +207,7 @@ game_data = {
 
         {
             "name": "Wednesday Addams",
-            "image": "images/wednesday.png",
+            "image": "wednesday.jpg",
             "clues": [
                 "I rarely smile.",
                 "I love dark humor.",
@@ -219,7 +219,7 @@ game_data = {
 
         {
             "name": "Legolas",
-            "image": "images/legolas.png",
+            "image": "legolas.jpg",
             "clues": [
                 "I am an elf.",
                 "I am skilled with a bow.",
@@ -231,7 +231,7 @@ game_data = {
 
         {
             "name": "Dracula",
-            "image": "images/dracula.png",
+            "image": "dracula.jpg",
             "clues": [
                 "I sleep during the day.",
                 "I drink blood.",
@@ -243,7 +243,7 @@ game_data = {
 
         {
             "name": "Daenerys Targaryen",
-            "image": "images/daenerys.png",
+            "image": "daenerys.jpg",
             "clues": [
                 "I am linked to dragons.",
                 "I was exiled.",
@@ -258,7 +258,7 @@ game_data = {
 
         {
             "name": "Geralt of Rivia",
-            "image": "images/geralt.png",
+            "image": "geralt.jpg",
             "clues": [
                 "I hunt monsters.",
                 "My hair is white.",
@@ -270,7 +270,7 @@ game_data = {
 
         {
             "name": "Severus Snape",
-            "image": "images/snape.png",
+            "image": "snape.jpg",
             "clues": [
                 "I teach Potions.",
                 "I have black hair.",
@@ -282,7 +282,7 @@ game_data = {
 
         {
             "name": "Eleven",
-            "image": "images/eleven.png",
+            "image": "eleven.jpg",
             "clues": [
                 "I have psychic powers.",
                 "I escaped from a lab.",
@@ -294,7 +294,7 @@ game_data = {
 
         {
             "name": "Thranduil",
-            "image": "images/thranduil.png",
+            "image": "thranduil.jpg",
             "clues": [
                 "I am an elven king.",
                 "I rule the Woodland Realm.",
@@ -306,7 +306,7 @@ game_data = {
 
         {
             "name": "Buzz Lightyear",
-            "image": "images/buzz.png",
+            "image": "buzz.jpg",
             "clues": [
                 "I believe I am a space ranger.",
                 "I say 'To infinity and beyond!'",
