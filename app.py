@@ -12,7 +12,7 @@ game_data = {
 
         {
             "name": "Harry Potter",
-            "image": "images/harry_potter.png",
+            "image": "https://drive.google.com/file/d/1PnIlU-LxSBSu6lu8T8JKr_nya5zyKXTP/view?usp=sharing",
             "clues": [
                 "I have a lightning-shaped scar.",
                 "I can speak Parseltongue.",
